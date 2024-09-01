@@ -40,7 +40,7 @@ public class App implements ActionListener{
     public static void main(String[] args){
         new App();
     }
-    // function to reverse the string
+
     @Override
     public void actionPerformed(ActionEvent e) {
         String str = text.getText();
@@ -49,8 +49,7 @@ public class App implements ActionListener{
             reversedString += str.charAt(i); 
         }
         text.setText("");
-        
-        // reverse text
+
         label.setText("Reversed string: " + reversedString );
         frame.pack();
 

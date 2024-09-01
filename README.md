@@ -1,18 +1,11 @@
-## Getting Started
+## Project 0
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+Student: Tai Bui
 
-## Folder Structure
+GitHub repo: https://github.com/buitai97/ReverseString
 
-The workspace contains two folders by default, where:
+Video: https://vimeo.com/manage/videos/1004971586
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+Screencast software used: Open Broadcaster Software, version 30.2.3
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
-
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
-
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+IDE: Visual Studio Code, version 1.83.1
